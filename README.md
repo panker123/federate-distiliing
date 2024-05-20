@@ -11,7 +11,8 @@ python run.py --from_pretrained ./model --dataset svamp --model_type task_prefix
 
 其他调整参数：
 
-![image-20240520165930433](C:\Users\pan\AppData\Roaming\Typora\typora-user-images\image-20240520165930433.png)
+![image](https://github.com/panker123/federate-distiliing/assets/56550368/4bb90b4f-3274-4e78-84af-a25761109a38)
+
 
 --subsample:选择训练数据的大小，原文依次选择了0.125，0.25，0.5，1三个数据大小进行训练
 
