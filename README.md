@@ -23,8 +23,8 @@ python run.py --from_pretrained ./model --dataset svamp --model_type task_prefix
 
 
 实验结果：
+![image](https://github.com/panker123/federate-distiliing/assets/56550368/6791f557-c886-4d42-958e-e63709b3cfa8)
 
-![image-20240520173354023](C:\Users\pan\AppData\Roaming\Typora\typora-user-images\image-20240520173354023.png)
 
 
 
@@ -39,8 +39,9 @@ python run_1.py
 ```
 
 其他调整参数
+![image](https://github.com/panker123/federate-distiliing/assets/56550368/6067aaca-cb9f-4192-8562-d7cf7e0a862a)
 
-![image-20240520170906466](C:\Users\pan\AppData\Roaming\Typora\typora-user-images\image-20240520170906466.png)
+
 
 --subsample:调整训练数据集大小
 
@@ -49,5 +50,5 @@ python run_1.py
 
 
 结果
+![image](https://github.com/panker123/federate-distiliing/assets/56550368/f0727798-9bd6-4c89-b13b-b9bc939b1789)
 
-![image-20240520172620967](C:\Users\pan\AppData\Roaming\Typora\typora-user-images\image-20240520172620967.png)
